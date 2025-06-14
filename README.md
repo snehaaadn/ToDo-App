@@ -2,25 +2,20 @@
 
 This is a simple yet efficient ToDo application built using Swift and SwiftUI. It allows users to create, manage, and delete daily tasks with a smooth and intuitive interface. The app leverages local storage to persist data across sessions without the need for an internet connection.
 
-🔧 Features:
-Add new tasks with a clean UI
+## Features:
 
-Mark tasks as completed
+- Add new tasks with a clean UI
+- Mark tasks as completed
+- Delete tasks
+- Persistent data storage using CoreData
+- Built using SwiftUI for a modern and responsive design
 
-Delete tasks
+## Technologies Used:
 
-Persistent data storage using CoreData
-
-Built using SwiftUI for a modern and responsive design
-
-💡 Technologies Used:
-Swift 5
-
-SwiftUI
-
-Local storage (CoreData)
-
-MVVM architecture 
+- Swift 5
+- SwiftUI
+- Local storage (CoreData)
+- MVVM architecture 
 
 ## Screenshots
 
@@ -74,4 +69,5 @@ https://github.com/snehaaadn/ToDo-App
 For questions or suggestions, feel free to reach out:
 
 Email: snehadnath25@gmail.com
+
 GitHub: snehaaadn
